@@ -1,5 +1,5 @@
 -- ================================================
--- Brain & Neurological Hospital Analytics
+--  Hospital Analytics
 -- Athena KPI Queries
 -- ================================================
 
