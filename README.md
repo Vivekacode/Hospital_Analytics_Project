@@ -49,4 +49,3 @@ Security & Compliance
 
 
 
-GitHub → README.md → Edit → Paste → Commit pannunga! 🚀
