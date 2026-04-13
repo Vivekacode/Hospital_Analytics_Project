@@ -1,7 +1,7 @@
 # Hospital_Analytics_Project
 
 #Problem Statement
-Hospitals generate large amounts of operational data but struggle to understand revenue patterns, patient flow, and efficiency. This project analyzes hospital data to extract meaningful business insight
+Hospitals generate large amounts of operational data but struggle to understand  patient flow, and efficiency. This project analyzes hospital data to extract meaningful business insight
 
 Hospital Analytics  Pipeline using AWS S3, Glue, Athena &amp; Lambda for  reduction in patient wait time, improvement in satisfaction scores 
 
