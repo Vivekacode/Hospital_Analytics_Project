@@ -25,19 +25,7 @@ Hospital Analytics  Pipeline using AWS S3, Glue, Athena &amp; Lambda for  reduct
 | 5 | Donut Chart | Admission Type Distribution |
 | 6 | Column Chart | Test Results (Normal/Abnormal/Inconclusive) |
 
- 📁 Repository Structure
-Hospital_Analytics_Project/
-│
-├── 📂 glue_jobs/
-│   └── bronze_to_silver.py    # ETL: Raw → Cleaned + PHI Masked
-│
-├── 📂 lambda/
-│   └── waittime_trigger.py    # Real-time KPI Auto Trigger
-│
-├── 📂 sql/
-│   └── athena_kpi_queries.sql # 6 KPI Table Queries
-│
-└── 📖 README.md
+ 
 
 Security & Compliance
  PHI Masking    → PATIENT_0, DOCTOR_0 (anonymized)
