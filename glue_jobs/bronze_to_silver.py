@@ -53,6 +53,8 @@ df_clean['Length_of_Stay'] = (
 ).dt.days
 print("Length of Stay calculated!")
 
+df_clean = df_clean.reset_index(drop=True)
+
 # ============================================
 # STEP 6: PHI Masking — HIPAA Compliance
 # ============================================
