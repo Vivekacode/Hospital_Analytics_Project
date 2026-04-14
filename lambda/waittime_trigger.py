@@ -54,8 +54,8 @@ def lambda_handler(event, context):
     # ============================================
     result = {
         'cure_rate': cure_rate,
-        'avg_stay_days': avg_stay_days,        # ✅ Fixed name
-        'total_monthly_load_mins': total_load,  # ✅ From real data
+        'avg_stay_days': avg_stay_days,       
+        'total_monthly_load_mins': total_load,  
         'total_patients': total,
         'cured_patients': cured,
         'active_patients': active
