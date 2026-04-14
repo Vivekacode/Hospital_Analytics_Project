@@ -3,6 +3,9 @@
 #Problem Statement
 Hospitals generate large amounts of operational data but struggle to understand  patient flow, and efficiency. This project analyzes hospital data to extract meaningful business insight
 
+The Hospital Analytics Project is a data analysis initiative aimed at understanding hospital performance, patient trends, and operational efficiency using structured healthcare data.
+The project focuses on transforming raw hospital data into meaningful insights that can support better decision-making in healthcare management.
+
 Hospital Analytics  Pipeline using AWS S3, Glue, Athena &amp; Lambda for  reduction in patient wait time, improvement in satisfaction scores 
 Power BI Dashboard — 6 KPIs
 
