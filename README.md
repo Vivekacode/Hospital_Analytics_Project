@@ -19,7 +19,7 @@ Power BI Dashboard — 6 KPIs
 | 6 | Column Chart | Test Results (Normal/Abnormal/Inconclusive) |
 
 Security & Compliance
- PHI Masking    → PATIENT_0, DOCTOR_0 (anonymized)
+ PHI Masking    → (anonymized)
  IAM Roles      → Role-based Access Control
  S3 Encryption  → Server-side Encryption
  HIPAA & GDPR   → 100% Compliant Pipeline
